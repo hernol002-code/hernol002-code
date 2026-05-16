@@ -18,7 +18,7 @@ Mechatronics Engineering student at **UDLAP**. Computer and technology enthusias
 - 🔌 **Electronics**: tinkering with circuits and embedded systems.
 - 🎤 **Public speaking**: something I enjoy and actively work to improve.
 - 🎨 **Off-screen**: films with purpose, pre-Hispanic Mexican history, sketching, and music.
-- 🎂 **Birthday**: October 18th.
+- 🎂 **Birthday**: October 18th (18 years old).
 
 ---
 
