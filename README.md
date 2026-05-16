@@ -49,6 +49,6 @@ My main stack revolves around **C++**, **Java**, and **Swift** — for systems-l
 
 <div align="center">
 
-*"Le vent se lève..."* • **UDLAP** • Get in contact: `tu_correo@ejemplo.com`
+*"Le vent se lève..."* • **UDLAP** • Get in contact: `hernol002@gmail.com`
 
 </div>
