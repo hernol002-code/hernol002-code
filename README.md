@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  
+# 🤖 ELÍAS URIEL
 
-<!--
-**hernol002-code/hernol002-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Vamos puro para arriba"*
 
-Here are some ideas to get you started:
+---
+</div>
+## 📖 Bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer and technology enthusiast.
+
+- 🏆 **Third place in Infomatrix 2026** — .
+- 🥈 **Second place in the national mathematics olympiad "Fusion 2024"** — .
+- 🎂 **My Birthday**: october 18th.
+
