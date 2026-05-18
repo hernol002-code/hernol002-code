@@ -4,6 +4,11 @@
 
 *"Le vent se lève, il faut tenter de vivre"*
 
+> *"Civilize the mind, but make savage the body"*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=5000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=Biomedical+Engineer;National+AI+Winner+'25+(Enactus);Metagenomics+Researcher;STEM+Rep+@+UDLAP;Linux+Ricing+Enthusiast)](https://git.io/typing-svg)
+
+
 ---
 
 </div>
