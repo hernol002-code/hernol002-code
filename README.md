@@ -4,8 +4,7 @@
 
 > *"Le vent se lève, il faut tenter de vivre"*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=5000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&lines=Mechatronics+Engineer;Electronics & PCB Design Enthusiast;Aviation Tech Enthusiast;STEM+Rep+@+UDLAP;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=550&lines=Mechatronics+Student+%26+Hardware+Designer;Electronics+%26+PCB+Design+Enthusiast;Aviation+%26+Military+History+Geek;STEM+Representative+%40+UDLAP)](https://git.io/typing-svg)
 
 ---
 
